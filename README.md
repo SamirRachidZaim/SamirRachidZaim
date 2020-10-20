@@ -6,7 +6,7 @@ I translate data into solutions using statistics and machine learning to bring i
 
 - 🔭 I’m currently wrapping up my PhD at the University of Arizona (hire me!)
 - 🌱 I’m currently learning how to develop python machine learning libraries.
-- 👯 I’m looking to collaborate on data-driven humanitarian/nonprofit initiatives. 
+- 🤗  I’m looking to collaborate on data-driven humanitarian/nonprofit initiatives. 
 - 📫 How to reach me: send a message!
 - 😄 Pronouns: He/Him (and shortly, Dr.)
 - ⚡ Fun fact: All facts are fun, some are just more interesting than others. 
