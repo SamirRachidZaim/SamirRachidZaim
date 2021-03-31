@@ -4,7 +4,7 @@ I am data scientist and biostatistician.
 
 I translate data into solutions using statistics and machine learning to bring insights into health and medical issues. My passion is using data science to help health disparities, rare diseases, and empowering decision-makers with evidence-based solutions. 
 
-- 🔭 I’m currently wrapping up my PhD at the University of Arizona (hire me!)
+- 🔭 I obtained my PhD in Statistics & Data Science at the University of Arizona. 
 - 🌱 I’m currently learning how to develop python machine learning libraries.
 - 🤗  I’m looking to collaborate on data-driven humanitarian/nonprofit initiatives. 
 - 📫 How to reach me: send a message!
