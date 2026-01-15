@@ -11,7 +11,7 @@ I translate data into solutions using statistics and machine learning to bring i
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: All facts are fun, some are just more interesting than others. 
 
-Quick Links: [Personal Homepage](https://samirrachidzaim.github.io/), [Twitter](https://twitter.com/Samirrz1), [LinkedIn](https://www.linkedin.com/in/srachidz/)
+Quick Links: [Personal Homepage](https://samirrachidzaim.github.io/), [LinkedIn](https://www.linkedin.com/in/srachidz/, [Work website[([h](https://alleninstitute.org/person/samir-rachid-zaim/))
 
 <!--
 **SamirRachidZaim/SamirRachidZaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
