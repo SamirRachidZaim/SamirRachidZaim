@@ -1,17 +1,14 @@
 ### Hi there 👋
 
-I am data scientist and biostatistician. 
+I am biostatistician with 10+ years in machine learning and biomedical data science. 
 
-I translate data into solutions using statistics and machine learning to bring insights into health and medical issues. My passion is using data science to help health disparities, rare diseases, and empowering decision-makers with evidence-based solutions. 
-
+My value added is clear visions and strategies that leverage data science to push forward biology and medicine. I am an expert in multi-omics data analysis and methodology development, and I bring forth experience managing teams, delivering projects, publishing scientific papers. 
 - 🔭 I obtained my PhD in Statistics & Data Science at the University of Arizona. 
-- 🌱 I’m currently learning how to develop python machine learning libraries.
-- 🤗  I’m looking to collaborate on data-driven humanitarian/nonprofit initiatives. 
 - 📫 How to reach me: send a message!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: All facts are fun, some are just more interesting than others. 
 
-Quick Links: [Personal Homepage](https://samirrachidzaim.github.io/), [LinkedIn](https://www.linkedin.com/in/srachidz/, [Allen Institute profile](https://alleninstitute.org/person/samir-rachid-zaim/))
+Quick Links: [Personal Homepage](https://samirrachidzaim.github.io/), [Google Scholar](https://scholar.google.com/citations?user=_cxg7m4AAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/srachidz/), [Allen Institute profile](https://alleninstitute.org/person/samir-rachid-zaim/))
 
 <!--
 **SamirRachidZaim/SamirRachidZaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
