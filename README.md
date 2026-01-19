@@ -8,7 +8,7 @@ My value added is clear visions and strategies that leverage data science to pus
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: All facts are fun, some are just more interesting than others. 
 
-Quick Links: [Personal Homepage](https://samirrachidzaim.github.io/), [Google Scholar](https://scholar.google.com/citations?user=_cxg7m4AAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/srachidz/), [Allen Institute profile](https://alleninstitute.org/person/samir-rachid-zaim/))
+Quick Links: [Personal Homepage](https://samirrachidzaim.github.io/), [Google Scholar](https://scholar.google.com/citations?user=_cxg7m4AAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/srachidz/), [Allen Institute profile](https://alleninstitute.org/person/samir-rachid-zaim/)
 
 <!--
 **SamirRachidZaim/SamirRachidZaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
