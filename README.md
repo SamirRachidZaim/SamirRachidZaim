@@ -2,7 +2,8 @@
 
 I am biostatistician with 10+ years in machine learning and biomedical data science. 
 
-My value added is clear visions and strategies that leverage data science to push forward biology and medicine. I am an expert in multi-omics data analysis and methodology development, and I bring forth experience managing teams, delivering projects, publishing scientific papers. 
+My value added is clear visions and strategies that leverage data science to push forward biology and medicine. I am an applied scientist with deep expertise in machine learning, statistics, and high-dimensional biomedical data, including genomics and immunology. Technical leader with hands-on IC and people-management experience, known for translating research into validated, scalable solutions. Proven collaborator across science, informatics, and product teams in high-velocity, ambiguous environments.
+
 - 🔭 I obtained my PhD in Statistics & Data Science at the University of Arizona. 
 - 📫 How to reach me: send a message!
 - 😄 Pronouns: He/Him
